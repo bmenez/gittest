@@ -1,2 +1,3 @@
-Ceci est un commentaire
+﻿Ceci est un commentaire
 - modifié sur github
+- puis modifié en local

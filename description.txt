@@ -1,2 +1,3 @@
-ceci est une description
+﻿ceci est une description
 - modifiée sur github
+- puis modifiée en local
